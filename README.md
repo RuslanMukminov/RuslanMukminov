@@ -6,4 +6,4 @@
 - курсовая работа модуля "JavaCore, GIT" - [Менеджер личных финансов](https://github.com/RuslanMukminov/JavaCore_Coursework)
 
 #### Сертификаты
-- "Java-разработка для начинающих" ООО "Нетология"
+- ["Java-разработка для начинающих"](https://github.com/RuslanMukminov/RuslanMukminov/blob/main/certificate.pdf) ООО "Нетология"
