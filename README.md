@@ -7,3 +7,5 @@
 
 #### Сертификаты
 - ["Java-разработка для начинающих"](https://github.com/RuslanMukminov/RuslanMukminov/blob/main/certificate.pdf) ООО "Нетология"
+- ["Алгоритмы: теория и практика. Структуры данных"](https://github.com/RuslanMukminov/RuslanMukminov/blob/main/stepik-certificate-1547-0fa7034.pdf) Stepik.org
+- ["Алгоритмы: теория и практика. Методы"](https://github.com/RuslanMukminov/RuslanMukminov/blob/main/stepik-certificate-217-6e5032b.pdf) Stepik.org
